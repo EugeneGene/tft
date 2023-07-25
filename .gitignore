@@ -22,5 +22,4 @@ dist/
 outputs/
 datasets/
 datasets
-
-settings.json
+tft_outputs/data/
